@@ -1,7 +1,7 @@
 # CGC-to-PSA-Vault
 A chrome extension to quickly pull data from a CGC graded Pokémon for shipment to the PSA vault.
 
-I wrote this extension to help with the laborious task of entering in CGC graded Pokémon card details into the PSA vault system. CGC is a 3rd party grading company, and the PSA Vault is a physical repository to store your already-graded cards, or market them to other collectors on ebay using the PSA Vault interface.
+I wrote this extension to help with the laborious task of entering in CGC graded Pokémon card details into the PSA vault system. CGC is a 3rd party grading company, and the PSA Vault is a physical repository to store your already-graded cards, or market them to other collectors on eBay using the PSA Vault interface.
 
 First unzip the extension, and in Chrome, go to Settings - > Extensions - > "Load Unpacked" and choose the root directory of the extension to load.
 
@@ -36,6 +36,6 @@ CTRL-SHIFT-3: Insert Cert Number (this can only be done from the PSA window)
 
 CTRL-SHIFT-4: Insert CGC Details (this can only be done from the PSA window)
 
-
+Please note, I do not work for CGC, eBay or any of their affiliates. I am simply a fan who wanted to speed up my own submission process. I hope this extension helps...someone.
 
 
