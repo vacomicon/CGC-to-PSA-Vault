@@ -38,6 +38,6 @@ CTRL-SHIFT-4: Insert CGC Details (this can only be done from the PSA window)
 
 Please note, I do not work for CGC, eBay or any of their affiliates. I am simply a fan who wanted to speed up my own submission process. I hope this extension helps...someone.
 
-Also, I am a lousy coder, and GEMINI did a majority of the work here. This extension was built on the shoulders of people MUCH smarter than I am. 
+License and Credit: I am a lousy coder, and GEMINI did a majority of the work here. This extension was built on the shoulders of people MUCH smarter than I am. Feel free to use it or modify it in any way you wish, but please do not sell it. KEEP INFORMATION FREE!
 
 
