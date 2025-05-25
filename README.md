@@ -20,14 +20,18 @@ On the next screen, click the very first field and choose "Insert Cert Nunber" (
 
 Tips for time saving:
 
-Hotkeys have been assigned to each of these 4 functions:
-CTRL-SHIFT-1: Copy Card info from CGC site (this can only be done from the CGC window, not the PSA window)
-CTRL-SHIFT-2: Insert Card Name (this can only be done from the PSA window) 
-CTRL-SHIFT-3: Insert Cert Number (this can only be done from the PSA window)
-CTRL-SHIFT-4: Insert CGC Details (this can only be done from the PSA window)
-
 My eyesight is going, and reading those tiny numbers on the back of a card is impossible. Thankfully, I can use a cheap QR scanner to do the work for me!
 I use a HANDHELD USB QR scanner with a stand to automatically get the 9 digit code from the back of the card. You can get practically any "2D" barcode canner (so it can do QR codes). Presently these are about $30-35 on Amazon for the scanner plus the stand ("gun" style). VERY IMPORANT 2 steps: I had to "program" the QR gun (using barcodes in the included instructions) to 1) set for "automatic scanning" so all I had to do was stick the cards under the QR gun, and 2)  to ignore 1-D barcodes (Those series of lines) and only read in the QR code. Sadly, each little manual I read calls these 1-D barcodes something a little different, and i cannot offer any tech support for this. Remember: 1-D barcodes are are series of little lines, while 2-D barcodes are a pattern in a square. 
+
+Hotkeys have been assigned to each of these 4 functions:
+
+CTRL-SHIFT-1: Copy Card info from CGC site (this can only be done from the CGC window, not the PSA window)
+
+CTRL-SHIFT-2: Insert Card Name (this can only be done from the PSA window) 
+
+CTRL-SHIFT-3: Insert Cert Number (this can only be done from the PSA window)
+
+CTRL-SHIFT-4: Insert CGC Details (this can only be done from the PSA window)
 
 The reason for this is because the barcode on the back of a CGC card will give you a 26 digit result, not the 10 digit result you desire. The embedded QR information on the back of the card actually provides an internal URL for CGC, but CGC's "cert lookup" field will strip all of the unnecessary data, and only insert the desired 10 digit code.
 
